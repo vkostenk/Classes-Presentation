@@ -1,8 +1,8 @@
 # Classes-Presentation
-Classes Presentation
+Classes Presentation<br /><br />
 
 Ada - Array, ArrayList<br />
-Yaroslav Bondarenko - Constructors, Wrapper Classes
-Yevgen Tymoshenko - Custom Methods
-Alena Nazarova Rota - Methods
-Jose Penso - Class, Object
+Yaroslav Bondarenko - Constructors, Wrapper Classes<br />
+Yevgen Tymoshenko - Custom Methods<br />
+Alena Nazarova Rota - Methods<br />
+Jose Penso - Class, Object<br />
