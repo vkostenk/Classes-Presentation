@@ -1,0 +1,79 @@
+Presetation
+What is a class? 
+a class is blueprint  of object , where the objest came from.
+
+an entity that determines how an object will behave and what the object will cotain
+what the object should have
+the action that the object should have based on the methods.
+the data we storaging in the class  we usally call FIELDS
+
+=========================================================================
+what is an object?
+objec is an instance of a class.
+
+Multiples can be created from a class. 
+
+=========================================================================
+How are objects of a class created?
+ In order to created an object we need a class / objects can not exist without a class. 
+
+ class specify what object should have 
+or what actions object should do.
+
+declaration: call the class then naming it we asosociate a variable name with an object type.
+
+instatiation: the new keyword is a java operator that creates the object
+
+initialization
+
+=========================================================================
+Instance variables vs local variables:
+ Local variables are visible only in the method or block they are declared whereas instance variables can been seen by all methods in the class
+
+ Local variables are declared in a method otr a block called. 
+
+ instance variables cam be declared anywhere in the class level. 
+
+ instances vatiariables always have defualt value. 
+ Local variables must has an assigned value , otherwise compiler generates an error .
+
+=========================================================================
+Instance variables in relation with objects:
+
+instance variable is a variable defined in a class, for each instantiated object of a class, has a separete copy. 
+
+=========================================================================
+Creating objects and accessing their fields:
+
+as we know, a class provides the blueprint for objects.
+which means you create an object from a class, 
+
+when we create an object using the constructor already defined for the class, we have access to assign value to the respective instance variables that that constructor can handle. 
+
+a class can be overload , which means same class might has defferent actions already defined by the overload contructors 
+=========================================================================
+How can we print object to show the information of the object, not the hascode?
+
+Using the default toString() method . 
+
+object is inheritante .
+
+this method return a string that textually represent what the object contains . 
+==========================================================================
+
+
+how is this used?
+ they are used to model behavior and encpsulate data 
+
+ Class can have sppecial functions defined/ or methods.
+
+
+
+
+
+
+
+
+
+
+
